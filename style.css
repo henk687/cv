@@ -341,7 +341,9 @@ button:hover {
   .right-area {
     width: 100% !important;
   }
+}
 
+@media only screen and (max-width: 1400px) {
   .right-area p {
     padding-left: 0px !important;
     text-align: justify;

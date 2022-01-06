@@ -117,6 +117,7 @@
 
 .bar .ninety-five,
 .bar .eighty,
+.bar .sixtyfive,
 .bar .fifty,
 .bar .thirty {
   display: block;
@@ -144,6 +145,18 @@
   position: absolute;
   content: "";
   width: 80%;
+  height: 80%;
+  background-color: #000;
+  top: 50%;
+  left: 2px;
+  transform: translateY(-50%);
+  border-radius: 10px;
+}
+
+.bar .sixtyfive:before {
+  position: absolute;
+  content: "";
+  width: 65%;
   height: 80%;
   background-color: #000;
   top: 50%;

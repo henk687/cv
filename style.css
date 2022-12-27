@@ -31,7 +31,6 @@
   cursor: pointer;
   transition: 0.5s;
   user-select: none;
-  filter: grayscale(100%);
 }
 
 .header img:hover {

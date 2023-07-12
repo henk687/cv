@@ -7,7 +7,7 @@
 }
 
 .print-area {
-  width: 80%;
+  width: 100%;
   margin: 20px auto;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .left-area .about {
-  margin-top: 82px;
+  margin-top: 81px;
 }
 
 .left-area .about p {

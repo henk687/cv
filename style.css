@@ -414,14 +414,14 @@ button:hover {
     padding-left: 0px !important;
   }
 
-  .edu-group span {
-    /*position: relative !important;*/
+  /*.edu-group span {
+   position: relative !important;
     top: 10px;
     left: 0 !important;
     margin-bottom: 5px;
     font-size: 15px;
     font-weight: bold;
-  }
+  }*/
 
   .edu-group h4 {
     padding-left: 0px !important;

@@ -406,7 +406,7 @@ button:hover {
   }
 
   .work-group span {
-    position: relative !important;
+    /*position: relative !important;*/
     margin-bottom: 10px !important;
   }
 

@@ -415,7 +415,7 @@ button:hover {
   }
 
   .edu-group span {
-    position: relative !important;
+    /*position: relative !important;*/
     top: 10px;
     left: 0 !important;
     margin-bottom: 5px;
